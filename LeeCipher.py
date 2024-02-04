@@ -1,5 +1,5 @@
-#lees cypher - this was thought up and written as an idea but turned out to be quite good.
-#TO-DO further encrypt the text with a random pass generator that links to more def functions
+#lees cipher. Use it to send & recieve encrypted messages with your friends!
+#TO-DO further encrypt the text with a random pass generator that links to more def functions...
 
 cypher1 = [["b"],["a"],["c"],["d"],["i"],["f"],["j"],["h"],["e"],["g"],["k"],["n"],["m"],["l"],["u"],["p"],["x"],["r"],["z"],["t"],["o"],["v"],["w"],["q"],["y"],["s"]]
 cypher2 = [["2"],["6"],["b"],["7"],["v"],["w"],["j"],["n"],["z"],["l"],["q"],["e"],["0"],["g"],["i"],["u"],["t"],["f"],["x"],["o"],["3"],["4"],["9"],["p"],["h"],["y"]]
@@ -31,7 +31,7 @@ def cyph(let):
                 return print(cypher2[4],end="")
         if let == "j":
                 return print(cypher2[6],end="")
-         if let == "k":
+        if let == "k":
                 return print(cypher2[10],end="")
         if let == "l":
                 return print(cypher2[13],end="")
