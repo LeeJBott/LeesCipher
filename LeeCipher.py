@@ -135,5 +135,5 @@ def Main():
 		read = input("Read: ")
 		for i in read.strip().lower():
 			cyph2(i)
-
-Main()
+if __name__ == "__main__":
+	Main()
