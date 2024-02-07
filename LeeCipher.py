@@ -1,4 +1,4 @@
-#lees cipher. Use it to send & recieve encrypted messages with your friends!
+#lees cipher. Use it to send, recieve and decrypt encrypted messages with your friends!
 #TO-DO further encrypt the text with a random pass generator that links to more def functions...
 
 cypher1 = [["b"],["a"],["c"],["d"],["i"],["f"],["j"],["h"],["e"],["g"],["k"],["n"],["m"],["l"],["u"],["p"],["x"],["r"],["z"],["t"],["o"],["v"],["w"],["q"],["y"],["s"]]
